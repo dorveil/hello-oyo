@@ -1,0 +1,64 @@
+body{
+    background: 0px;
+    padding: 0px;
+ }
+ .header{
+     background-color: #287265;
+     height: 80px;
+     margin: 18px;
+ }
+ nav ul li{
+     list-style-type  : none;
+     display: inline-block;
+     padding: 10px;
+ }
+ ul li a{
+     color: #fff;
+     letter-spacing: 0.1rem;
+ }
+ ul li a:hover{
+     color: #ffd358;
+     text-decoration: underline;
+ }
+ .menu li{
+     float: left;
+     padding: 35px;
+ }
+ .memu li a{
+     text-decoration: none;
+ }
+ form{
+    padding: 35pzx;
+    text-align: right; 
+ }
+ input[type="search"]{
+     font-size: 17px;
+ }
+ input[type="button"]{
+    font-size: 17px;
+    cursor: pointer;
+ }
+
+ h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.button{
+    position: absolute;
+    top: 500px;
+    right: 350px;
+    padding: 20px;
+    border: 4px #0fff;
+}
+.button1{
+    background-color: #0fff14;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.button2{
+    background-color: #0fff14;
+    text-transform: uppercase;
+    font-weight: bold;
+}

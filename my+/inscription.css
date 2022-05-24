@@ -1,0 +1,35 @@
+body{
+    
+}
+#menu{
+   
+}
+.form{
+  background-color: rgba(0, 0, 0, 0.166);    
+  max-width: 380px;
+  margin: auto;
+  margin-top: 150px;
+}
+label{
+    color: #000;
+}
+input{
+    outline: none;
+    background-color: transparent;
+    color: #000;
+    border: none;
+    border-bottom: 2px solid #fff;
+}
+#button{
+    position: absolute;
+    background-color: #0e0;
+    width: 20%;
+    height: 35px;
+    border-radius: 15px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 32px 12px 0px 12px;
+    top: 582px;
+    left: 358px;
+}
+
